@@ -1,11 +1,8 @@
 # 💫 About Me:
 
-Certified and experienced Quality Assurance Engineer with over 5 years of experience and a demonstrated history of working in the Banking, Healthcare, Supply Chain, Data, and Capital Markets domains, specializing in both Automation and Manual Testing. Skilled in Automation Testing for Web and Mobile, Test Planning, Design, Execution, and End-to-End Project Delivery. Experienced in Agile & Scrum methodologies, API & Backend Testing, and Software Development in Test (SDET).
+Certified and experienced Quality Assurance Engineer with over 5 years of experience working in the Banking, Healthcare, Supply Chain, Data, and Capital Markets domains, specializing in both Automation and Manual Testing. Skilled in Automation Testing for Web and Mobile, Test Planning, Design, Execution, and End-to-End Project Delivery. Experienced in Agile & Scrum methodologies, API & Backend Testing, and Software Development in Test (SDET).
 
-- 💻 QA Engineer | 🌟 Automation Enthusiast | 🧪 ISTQB Certified | 🚀 Building Quality, One Test at a Time 
-- 🔭 I’m currently working on **Framework to automate Web, Mobile and Api using Selenium, java, Appium**
-
-- 🌱 I’m currently learning **Functional testing**
+| 💻 QA Engineer | 🌟 Automation Enthusiast | 🧪 ISTQB Certified |
 
 - 📝 I regularly write articles on [www.dtechqa.com](www.dtechqa.com)
 
