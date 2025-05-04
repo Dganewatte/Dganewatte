@@ -4,7 +4,7 @@ Certified and experienced Quality Assurance Engineer with over 5 years of experi
 
 | 💻 QA Engineer | 🌟 Automation Enthusiast | 🧪 ISTQB Certified |
 
-- 📝 I regularly write articles on [www.dtechqa.com](www.dtechqa.com)
+- 📝 I regularly write articles on [www.dtechqa.com](https://www.dtechqa.com/))
 
 - 📫 How to reach me **devanganiganewatte@gmail.com**
   
